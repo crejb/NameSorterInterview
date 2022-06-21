@@ -1,0 +1,15 @@
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/bin/Debug/net6.0/NameSorter.Console
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/bin/Debug/net6.0/NameSorter.Console.deps.json
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/bin/Debug/net6.0/NameSorter.Console.runtimeconfig.json
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/bin/Debug/net6.0/NameSorter.Console.dll
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/bin/Debug/net6.0/NameSorter.Console.pdb
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/Debug/net6.0/NameSorter.Console.csproj.AssemblyReference.cache
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/Debug/net6.0/NameSorter.Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/Debug/net6.0/NameSorter.Console.AssemblyInfoInputs.cache
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/Debug/net6.0/NameSorter.Console.AssemblyInfo.cs
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/Debug/net6.0/NameSorter.Console.csproj.CoreCompileInputs.cache
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/Debug/net6.0/NameSorter.Console.dll
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/Debug/net6.0/refint/NameSorter.Console.dll
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/Debug/net6.0/NameSorter.Console.pdb
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/Debug/net6.0/NameSorter.Console.genruntimeconfig.cache
+/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/Debug/net6.0/ref/NameSorter.Console.dll

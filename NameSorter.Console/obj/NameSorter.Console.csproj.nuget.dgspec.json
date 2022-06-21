@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cbowles/src/hiring/NameSorter/NameSorter.Console/NameSorter.Console.csproj": {}
+  },
+  "projects": {
+    "/home/cbowles/src/hiring/NameSorter/NameSorter.Console/NameSorter.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cbowles/src/hiring/NameSorter/NameSorter.Console/NameSorter.Console.csproj",
+        "projectName": "NameSorter.Console",
+        "projectPath": "/home/cbowles/src/hiring/NameSorter/NameSorter.Console/NameSorter.Console.csproj",
+        "packagesPath": "/home/cbowles/.nuget/packages/",
+        "outputPath": "/home/cbowles/src/hiring/NameSorter/NameSorter.Console/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/cbowles/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/gsf/auth/d66553c3-2317-49ce-8596-ef9db08d0cb6/api/v2": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/cbowles/.dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
